@@ -34,9 +34,7 @@ div {
     }
 
 .derecha {
-    position: absolute;
-    left: 150px;
-    top: 310px;
+    display: inline-block;
 }
     
     
