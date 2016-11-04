@@ -1,0 +1,46 @@
+div {
+    background-color: #88827a;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    
+}
+
+.padre {
+    position: relative;
+    width: 400px;
+    height: 150px;
+}
+
+.hijo1 {
+    border: #0b0b0b solid 1px;
+    left: 10px;
+    position: absolute;
+    margin: 20px;
+    }
+
+.hijo2 {
+    border: #0b0b0b solid 1px;
+    left: 130px;
+    position: absolute;
+    margin: 20px;
+    }
+
+.hijo3 {
+    border: #0b0b0b solid 1px;
+    left: 250px;
+    position: absolute;
+    margin: 20px;
+    }
+
+.derecha {
+    position: absolute;
+    left: 150px;
+    top: 310px;
+}
+    
+    
+    
+    
+    
+    
